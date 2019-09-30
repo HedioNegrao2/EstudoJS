@@ -1,0 +1,5 @@
+console.log('Teste')
+/* blocos  */
+{
+
+}
